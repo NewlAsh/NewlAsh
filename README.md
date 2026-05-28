@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently learning Backend Development and yeah, also into DSA too, along with I used to be consistent with CP on codeforces.<br>I am eager to learn about open-source contribution and soon will be deep diving into that too.<br>Looking forward to contributing, and yeah looking forward to collaborate with people aspiring something crazy related to what they learnt alongside.
+# Kalash Desai:
+I'm currently learning Backend Development and yeah, also into DSA too, along with being consistent with CP on Codeforces.<br>I am eager to learn about open-source contribution and soon will be deep diving into that too.<br>Looking forward to contributing, and yeah, looking forward to collaborating with people aspiring for something crazy related to what they learned alongside.
 
 
 ## 🌐 Socials:
