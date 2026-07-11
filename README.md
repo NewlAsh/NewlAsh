@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Newllow</h1>
+<h1 align="center">Hi 👋, I'm kk</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -45,6 +45,23 @@
 **AI/ML**
 
 ![Status](https://img.shields.io/badge/-will%20update%20someday-lightgrey?style=for-the-badge)
+
+**Tools & Security**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OAuth](https://img.shields.io/badge/-OAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Mailtrap](https://img.shields.io/badge/-Mailtrap-2D3748?style=for-the-badge&logo=mailtrap&logoColor=white)
+
+**Deployment & Hosting**
+
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
