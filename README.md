@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Sophomore @ IIIT Vadodara &nbsp;|&nbsp; Backend Dev &nbsp;|&nbsp; GenAI (someday) &nbsp;|&nbsp; Competitive Programmer
+  Sophomore IIIT Vadodara &nbsp;|&nbsp; Backend Dev &nbsp;|&nbsp; GenAI (someday) &nbsp;|&nbsp; Competitive Programmer
 </p>
 
 ---
@@ -94,6 +94,22 @@
 
 ![Codeforces](https://img.shields.io/badge/-Codeforces%20(Pupil)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+---
+
+### 📬 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalash-desai-a9b47b387">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kalashdesai.kd@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NewlAsh">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
