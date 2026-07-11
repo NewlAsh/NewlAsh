@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kk</h1>
+<h1 align="center">Hey there! I'm Newllow (People also call me Kalash)</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
