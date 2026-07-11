@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Second-year CSE @ IIIT Vadodara &nbsp;|&nbsp; Backend Dev &nbsp;|&nbsp; GenAI (someday) &nbsp;|&nbsp; Competitive Programmer
+  Sophomore @ IIIT Vadodara &nbsp;|&nbsp; Backend Dev &nbsp;|&nbsp; GenAI (someday) &nbsp;|&nbsp; Competitive Programmer
 </p>
 
 ---
