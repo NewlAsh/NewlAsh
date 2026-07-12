@@ -112,8 +112,9 @@
 </p>
 
 ---
-
-<p align="center">
+<p alogn="center">
   <b>Looking forward to collaborating for hackathons, projects, solving real-world problems, SaaS, etc...</b>
+</p>
+<p align="center">
   <i>⚠️ Warning: code may contain traces of sleep deprivation and unresolved conflicts.</i>
 </p>
