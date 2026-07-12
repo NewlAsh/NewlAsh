@@ -114,5 +114,6 @@
 ---
 
 <p align="center">
-  <i>⚠️ Warning: code may contain traces of stack overflow, sleep deprivation, and unresolved merge conflicts.</i>
+  <b>Looking forward to collaborating for hackathons, projects, solving real-world problems, SaaS, etc...</b>
+  <i>⚠️ Warning: code may contain traces of sleep deprivation and unresolved conflicts.</i>
 </p>
