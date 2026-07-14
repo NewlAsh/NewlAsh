@@ -82,13 +82,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NewlAsh/NewlAsh/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ### ⚔️ Competitive Programming
 
