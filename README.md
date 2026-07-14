@@ -92,7 +92,7 @@
 
 ### ⚔️ Competitive Programming
 
-![Codeforces](https://img.shields.io/badge/-Codeforces%20(Pupil)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Codeforces](https://img.shields.io/badge/-Codeforces%20(Pupil)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)(https://www.codeforces.com/profile/Newllowdeveloper
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
